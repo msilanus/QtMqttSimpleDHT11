@@ -1,5 +1,5 @@
 # QtMqttSimpleDHT11
-Access MQTT messages from TTN broker. The device is a DHT11 on THE THINHS UNO board.
+Access MQTT messages from TTN broker with Qt. The device is a DHT11 on THE THINHS UNO board.
 
 You must install QtMqtt module in Qt (>5.10) to run this project.
 
